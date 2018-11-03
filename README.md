@@ -16,8 +16,58 @@ The app allows users to input the ingredients they have and shows them the possi
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+## 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+ * [fill in your required user stories here]
+ * User can search ingredients
+ * User can input ingredients
+ * User can search for recipes
+ * User can save recipes/ingredients
+ * 
+
+**Optional Nice-to-have Stories**
+
+ * Register
+ * Login
+ * 
+
+## 2. Screen Archetypes
+
+ * Stream
+   * User can view a list of recipes
+ * Detail
+   * User can view the specific details of the recipes
+ * Search
+   * User can search for recipes based on ingredients
+   * User can search for specific ingredients
+ * Creation
+   * User can upload a recipe
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Home
+ * Search
+ * Creation
+
+**Flow Navigation** (Screen to Screen)
+
+ * Home
+   * Search
+   * Creation
+   * Detail
+ * Search
+   * Detail
+ * Creation
+   * Home
+   * Search
+ * Detail
+   * Home
+   * Search
+
 
 ---
 
