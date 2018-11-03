@@ -24,14 +24,12 @@ The app allows users to input the ingredients they have and shows them the possi
  * User can search ingredients
  * User can input ingredients
  * User can search for recipes
- * User can save recipes/ingredients
- * 
+ * User can save recipes/ingredients 
 
 **Optional Nice-to-have Stories**
 
  * Register
  * Login
- * 
 
 ## 2. Screen Archetypes
 
